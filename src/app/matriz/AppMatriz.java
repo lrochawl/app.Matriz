@@ -51,7 +51,7 @@ public class AppMatriz {
                 }
             }
         }
-        System.out.print("Numeros negativos Vamos descobrir "+negativos);
+        System.out.print("Numeros negativos Vamos descobrir quem são"+negativos);
         sc.close();
     }
     
