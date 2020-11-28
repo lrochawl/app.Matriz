@@ -22,7 +22,8 @@ public class AppMatriz {
         Scanner sc = new Scanner(System.in);
         System.out.print("Qual numero de linhas da matriz: ");
         int nl = sc.nextInt();
-        System.out.print("Qual o numero de colunas na matriz:  *");
+        System.out.println("Qual o numero de colunas na matriz:  *");
+        System.out.println("Brasil");
         int nc = sc.nextInt();
         
         int[][] matriz = new int[nl][nc];
